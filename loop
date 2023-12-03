@@ -1,1 +1,0 @@
-counter=1; while [ $counter -le 999999999 ]; do echo $counter; ((counter++)); clear; done
